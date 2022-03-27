@@ -2,9 +2,5 @@
 
 new line
 
-
-
-new line
-
 изменения2
 
